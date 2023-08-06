@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 ###  My diplom project of the course automation testing with python at QA GURU school 
-[**Booking service automated testing**](https://github.com/klimashko/qa_guru_python_4_25_diplom_project_API_UI_)
+### [**Booking service automated testing**](https://github.com/klimashko/qa_guru_python_4_25_diplom_project_API_UI_)
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klimashko)](https://github.com/anuraghazra/github-readme-stats)
