@@ -19,7 +19,22 @@ MySQL Workbench.
 
 Automated testing: Python, PyCharm, Pytest, Selen, Jenkins,
 Selenoid, Allure Report, Allure TestOps, Telegram, GitHub.
+## Используемые технологии
 
+Python, PyCharm, Pytest, Selen, Jenkins, Selenoid, Allure Report, Allure TestOps, Jira,
+Telegram, GitHub.
+<p>
+  <code><img width="5%" title="Python" src="resources/icons/python.png"></code>
+  <code><img width="5%" title="Pycharm" src="resources/icons/pycharm.png"></code>
+  <code><img width="5%" title="Pytest" src="resources/icons/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="resources/icons/selene.png"></code>
+  <code><img width="5%" title="Jenkins" src="resources/icons/jenkins.png"></code>
+  <code><img width="5%" title="selenoid" src="resources/icons/selenoid.png"></code>
+  <code><img width="5%" title="Allure Report" src="resources/icons/allure.png"></code>
+  <code><img width="5%" title="Jira" src="resources/icons/jira.png"></code>
+  <code><img width="5%" title="Telegram" src="resources/icons/tg.png"></code>
+  <code><img width="5%" title="GitHub" src="resources/icons/github.png"></code>
+</p>
 
 <!--
 **klimashko/klimashko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
