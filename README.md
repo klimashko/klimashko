@@ -19,10 +19,7 @@ MySQL Workbench.
 
 Automated testing: Python, PyCharm, Pytest, Selen, Jenkins,
 Selenoid, Allure Report, Allure TestOps, Telegram, GitHub.
-## Используемые технологии
 
-Python, PyCharm, Pytest, Selen, Jenkins, Selenoid, Allure Report, Allure TestOps, Jira,
-Telegram, GitHub.
 <p>
   <code><img width="5%" title="Python" src="resources/icons/python.png"></code>
   <code><img width="5%" title="Pycharm" src="resources/icons/pycharm.png"></code>
