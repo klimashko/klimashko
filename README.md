@@ -13,7 +13,7 @@ Currently, I am developing automated testing skills with Python and motivated to
 <a href="https://t.me/Evgeny_Klimashko" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Evgeny_Klimashko" height="40" width="40" /></a>
 </p>
 
-## Stack
+### Stack
 Manual testing: Jira, Test It, YouTrack, Postman, Chrome DevTools, Gitlab,
 MySQL Workbench.
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###  QA.GURU "Test Automation in Python" course [**graduation project of automatic testing for a booking service**](https://github.com/klimashko/qa_guru_python_4_25_diplom_project_API_UI_)
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klimashko)](https://github.com/anuraghazra/github-readme-stats)
