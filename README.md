@@ -1,6 +1,6 @@
 ## Hi, Im Evgenii!
-QA Engineer with 2 years of experience in mobile and web testing.
-Currently, I am developing automated testing skills with Python and motivated to apply it in my work.
+### QA Engineer with 2 years of experience in mobile and web testing.
+### Currently, I am developing automated testing skills with Python and motivated to apply it in my work.
 
 - 📫 How to reach me **klimashko108@gmail.com**
 
@@ -8,12 +8,12 @@ Currently, I am developing automated testing skills with Python and motivated to
 
 - 🌍 I speak Russian (native), English (B1), Spanish (A1)
 
-### Connect with me:
+### :calling: Connect with me:
 <p>
 <a href="https://t.me/Evgeny_Klimashko" target="blank"><img width="5%" title="Telegram" src="resources/icons/tg.png"></a>
 </p>
 
-### Stack
+### :hammer_and_wrench: Stack
 Manual testing: Jira, Test It, YouTrack, Postman, Chrome DevTools, Gitlab,
 MySQL Workbench.
 
