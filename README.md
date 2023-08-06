@@ -1,5 +1,5 @@
-## Hi!
-Im, Evgenii Klimashko, QA Engineer with 2 years of experience in mobile and web testing.
+## Hi, Im Evgenii!
+QA Engineer with 2 years of experience in mobile and web testing.
 Currently, I am developing automated testing skills with Python and motivated to apply it in my work.
 
 - 📫 How to reach me **klimashko108@gmail.com**
@@ -39,7 +39,3 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klimashko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-https://t.me/Evgeny_Klimashko
-www.linkedin.com/in/evgenii-klimashko
