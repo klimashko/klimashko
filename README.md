@@ -9,8 +9,8 @@ Currently, I am developing automated testing skills with Python and motivated to
 - 🌍 I speak Russian (native), English (B1), Spanish (A1)
 
 ### Connect with me:
-<p align="left">
-<a href="https://t.me/Evgeny_Klimashko" target="blank"><img align="center" src="resources/icons/tg.png" alt="Evgeny_Klimashko" height="40" width="40" /></a>
+<p>
+<a href="https://t.me/Evgeny_Klimashko" target="blank"><img width="5%" title="Telegram" src="resources/icons/tg.png"></a>
 </p>
 
 ### Stack
