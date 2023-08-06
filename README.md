@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  My diplom project of the course automation testing with python at QA GURU school 
+
+### :star: My diplom project of the course automation testing with python at QA.GURU[**QA.GURU**](https://qa.guru/)
 ### [**Booking service automated testing**](https://github.com/klimashko/qa_guru_python_4_25_diplom_project_API_UI_)
 
 ### :fire: My Stats :
